@@ -1,0 +1,15 @@
+﻿This is the key in MVC, so you'll see them models the views and see controllers.
+
+So the way MVC works is that the model is really where the data lives
+
+So the model represents a class or a structure for what data should look like.
+
+And this class is they create an object of this class, fill it with data.
+
+That's their model.
+
+The controller takes a user's request and then rolls it to the UI element that matches it.
+
+So this is where the intelligence of the application really is.
+
+So let's say a user wanted to see the homepage well, this is the home controller.
